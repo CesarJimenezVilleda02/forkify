@@ -1,5 +1,5 @@
 // https://forkify-api.herokuapp.com/v2
-
+import { async } from 'regenerator-runtime';
 import { TIMEOUT_SEC } from './config.js';
 
 const timeout = function (s) {

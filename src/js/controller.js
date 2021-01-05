@@ -1,3 +1,5 @@
+import { async } from 'regenerator-runtime';
+
 import * as model from './model.js';
 import { MODAL_CLOSE_SECONDS } from './config.js';
 import recipeView from './views/recipeView.js';
